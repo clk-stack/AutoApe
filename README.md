@@ -26,6 +26,7 @@ Probably not. This skips all best practices (Verifying the amount, TX details be
 Because then you would have no idea what this program is doing in the background. This is being released as simple script/source code for transparency. You can download the necessary software and compile it yourself in 5-10 minutes.
 
 
+REMINDER: USE AT YOUR OWN RISK. BY USING THIS SCRIPT YOU ACCEPT ALL CONSEQUENCES IF YOU ACCIDENTLY RUG YOURSELF
 
 **--- How to use: ---**
 
